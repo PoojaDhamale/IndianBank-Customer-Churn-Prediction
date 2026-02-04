@@ -73,9 +73,9 @@ st.markdown("""
 ### ✅ Project Highlights
 - Realistic **Indian banking churn dataset**
 - **Feature engineering** based on domain logic
-- **XGBoost model** with ROC-AUC evaluation
 - **Live churn prediction**
 - **Business-driven retention strategies**
 
 This project is designed to be **interview-ready and industry aligned**.
 """)
+
