@@ -147,7 +147,7 @@ st.header("📈 Key Results")
 r1, r2, r3 = st.columns(3)
 
 with r1:
-    st.metric("✅ Accuracy", "63%")
+    st.metric("✅ Accuracy", "49%")
 
 with r2:
     st.metric("🔍 Churn Detection", "Improved")
@@ -162,7 +162,6 @@ st.markdown(
     """
     ✔ 📊 Interactive churn analysis & visual insights  
     ✔ 🧠 Feature importance visualization  
-    ✔ 📂 CSV upload for batch churn prediction  
     ✔ ⚡ Live churn prediction for new customers  
     ✔ 🎨 Clean & intuitive Streamlit dashboard  
     """
@@ -175,3 +174,4 @@ st.info(
     "📍 Use the sidebar to navigate through churn analysis, feature engineering, "
     "model evaluation, and live prediction modules."
 )
+
